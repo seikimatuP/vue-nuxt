@@ -10,7 +10,7 @@
     "serve": "nuxt serve"
   },
   "dependencies": {
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "node-sass": "4.13.1",
     "nuxt": "^2.13.0",
     "nuxt-buefy": "^0.3.31",
